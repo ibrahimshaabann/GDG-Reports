@@ -1,4 +1,9 @@
-# DevFest Assiut - Professional Event Report
+# DevFest Assiut -  Event Report
+
+* Name of Event: DevFest
+* Date of Event: October 16, 2022
+* Location of Event: Assiut University
+* Reporter Name: Ibrahim Shaaban
 
 ## <div align="center">Event Overview</div>
 
@@ -13,7 +18,7 @@ DevFest Assiut emerged as an influential event that celebrated technological adv
 ## <div align="center">Speakers</div>
 >DevFest Assiut featured a lineup of esteemed speakers who shared their expertise and insights:
 
-- **Aya Nassar:** MLOps Engineer at Aiactive Technologies
+- **Aya Nasser:** MLOps Engineer at Aiactive Technologies
 - **Moataz Mahmoud:** Test Automation Consultant at Upland Software
 - **Ahmed Alroky:** Cybersecurity Division Head at AI Active Technologies
 - **Emad Gamal:** DevOps Engineer, Backend Developer
@@ -32,7 +37,7 @@ DevFest Assiut was expertly hosted by Doaa Mohammed, QA Unit Administrative Mana
 ## <div align="center">Sessions and Workshops</div>
 
 
->Sessions
+### ***Sessions***
 1. **Introduction to MLOps (Machine Learning Operations) by Aya Nassar**
 2. **Web App Test Automation by Moataz Ahmed**
 3. **IoT Hacking: Benefits, Challenges, and Opportunities by Ahmed Alroky**
@@ -42,9 +47,9 @@ DevFest Assiut was expertly hosted by Doaa Mohammed, QA Unit Administrative Mana
 7. **Recommender System with TensorFlow by Omar Mamdouh**
 8. **Business Development by Frank Saad and Tasneem Mohammed**
 
-> Workshops:
+### ***Workshops***
 
-The event offered diverse and engaging workshops to cater to various interests:
+> The event offered diverse and engaging workshops to cater to various interests:
 
 - **Deploying a Python Flask Web Application to App Engine Flexible Session:**
   - Conducted by John Aziz, Cloud Engineer, Ambassador at Microsoft
@@ -103,6 +108,20 @@ The success of DevFest Assiut was made possible by the support of esteemed partn
 - xWare Integrated Solutions
 - National Bank of Egypt
 - AI Active Technologies
+
+## <div align="center">Suggestions</div>
+
+### ***Technical competitions:***
+I think it will be a good idea to make some technical competitions and quizzes with prizes at the end of the day. This will help attendees to give more attention to the sessions
+
+### ***Audience Participation Tools:***
+Utilizing audience participation tools such as live polls, quizzes, and surveys can actively involve attendees in the content being presented. This interactive approach not only engages the audience but also provides valuable insights for both speakers and event organizers.
+
+### ***Post-Event Resources:***
+Provide attendees with access to recorded sessions, presentation materials, and code repositories. This allows participants to revisit content and continue learning after the event.
+
+### ***Feedback Mechanisms:***
+Implement a feedback system for each session and workshop. This can help CO team understand what worked well and areas for improvement, contributing to future event enhancements.
 
 ## <div align="center">Conclusion</div>
 
