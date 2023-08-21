@@ -1,29 +1,17 @@
 # DevFest Assiut - Professional Event Report
 
-**Event Overview:**
+## <div align="center">Event Overview</div>
 
 DevFest Assiut, the largest technical conference in Upper Egypt, Egypt, successfully took place as an exceptional platform to provide developers with comprehensive answers to their questions and effective solutions for various challenges they face within the tech industry. The event, held in Assiut, aimed to enrich attendees' knowledge, foster innovation, and offer remarkable networking opportunities.
 
-**Introduction:**
+## <div align="center">Introduction</div>
+
 
 DevFest Assiut emerged as an influential event that celebrated technological advancements and knowledge-sharing. It catered to the diverse needs of developers and tech enthusiasts by offering a wide range of sessions, workshops, and discussions.
 
-**Sessions and Workshops:**
 
-The event comprised an array of enlightening sessions and workshops, each led by industry experts and professionals:
-
-1. **Introduction to MLOps (Machine Learning Operations) by Aya Nassar**
-2. **Web App Test Automation by Moataz Ahmed**
-3. **IoT Hacking: Benefits, Challenges, and Opportunities by Ahmed Alroky**
-4. **Cloud Next Framework by Emad Gamal**
-5. **Learn About Modern Javascript! by Ahmed Hany**
-6. **Kotlin and Jetpack Compose by Shady Selim**
-7. **Recommender System with TensorFlow by Omar Mamdouh**
-8. **Business Development by Frank Saad and Tasneem Mohammed**
-
-**Speakers:**
-
-DevFest Assiut featured a lineup of esteemed speakers who shared their expertise and insights:
+## <div align="center">Speakers</div>
+>DevFest Assiut featured a lineup of esteemed speakers who shared their expertise and insights:
 
 - **Aya Nassar:** MLOps Engineer at Aiactive Technologies
 - **Moataz Mahmoud:** Test Automation Consultant at Upland Software
@@ -35,11 +23,26 @@ DevFest Assiut featured a lineup of esteemed speakers who shared their expertise
 - **Tasneem Mohammed:** Assiut BDS Huh Advisor
 - **Ahmed Hany:** Front-end Team Lead at WhatsCookin
 
-**Event Host:**
+### ***Event Host:***
 
 DevFest Assiut was expertly hosted by Doaa Mohammed, QA Unit Administrative Manager, Entrepreneurship Trainer, and E-Marketing Trainer.
 
-**Workshops:**
+
+
+## <div align="center">Sessions and Workshops</div>
+
+
+>Sessions
+1. **Introduction to MLOps (Machine Learning Operations) by Aya Nassar**
+2. **Web App Test Automation by Moataz Ahmed**
+3. **IoT Hacking: Benefits, Challenges, and Opportunities by Ahmed Alroky**
+4. **Cloud Next Framework by Emad Gamal**
+5. **Learn About Modern Javascript! by Ahmed Hany**
+6. **Kotlin and Jetpack Compose by Shady Selim**
+7. **Recommender System with TensorFlow by Omar Mamdouh**
+8. **Business Development by Frank Saad and Tasneem Mohammed**
+
+> Workshops:
 
 The event offered diverse and engaging workshops to cater to various interests:
 
@@ -74,11 +77,12 @@ The event offered diverse and engaging workshops to cater to various interests:
 - **Computer Vision Workshop:**
   - Led by Toqa Mohammed, Machine Learning Expert Trainer at Bamboo Geeks
 
-**Partners and Sponsors:**
+## <div align="center">Partners and Sponsors</div>
+
 
 The success of DevFest Assiut was made possible by the support of esteemed partners and sponsors:
 
-**Partners:**
+### ***Partners:***
 - Tiec Innovation Ambassadors
 - Nook Workspace
 - Innovators Support Fund
@@ -93,13 +97,13 @@ The success of DevFest Assiut was made possible by the support of esteemed partn
 - Al-Azhar University
 - ODIC Production House
 
-**Sponsors:**
+### ***Sponsors:***
 - Cross Workers Company
 - Petra Software
 - xWare Integrated Solutions
 - National Bank of Egypt
 - AI Active Technologies
 
-**Conclusion:**
+## <div align="center">Conclusion</div>
 
 DevFest Assiut successfully delivered a platform for knowledge exchange, networking, and skill development. The event's diverse sessions, workshops, and esteemed speakers offered attendees a unique opportunity to engage with technology's forefront. With the collaboration of partners, sponsors, and an enthusiastic audience, DevFest Assiut reaffirmed its role as a catalyst for progress and innovation within the tech community.
